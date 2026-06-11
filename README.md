@@ -195,25 +195,36 @@ Note:
 
 ### Screenshots
 
-![Home screen](assets/images/6149818699276291745_119.jpg)
-
-![Favorites screen](assets/images/6149818699276291746_119.jpg)
-
-![Add contact screen](assets/images/6149818699276291747_119.jpg)
-
-![Contact detail screen](assets/images/6149818699276291749_119.jpg)
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/images/6149818699276291745_119.jpg" alt="Home screen" width="320">
+      <br>
+      <strong>Home screen</strong>
+    </td>
+    <td align="center">
+      <img src="assets/images/6149818699276291746_119.jpg" alt="Favorites screen" width="320">
+      <br>
+      <strong>Favorites screen</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/images/6149818699276291747_119.jpg" alt="Add contact screen" width="320">
+      <br>
+      <strong>Add contact screen</strong>
+    </td>
+    <td align="center">
+      <img src="assets/images/6149818699276291749_119.jpg" alt="Contact detail screen" width="320">
+      <br>
+      <strong>Contact detail screen</strong>
+    </td>
+  </tr>
+</table>
 
 ### Demo Video
 
-- [Watch demo video](assets/images/6149818698816299272.mp4)
-
-If you prefer an embedded video in a local preview, you can also use:
-
-```html
-<video controls width="100%">
-  <source src="assets/images/6149818698816299272.mp4" type="video/mp4">
-</video>
-```
+- [Watch demo video](https://drive.google.com/file/d/1D9gilbZ_5DpnCjdhT7BNaypdIW737Qcl/view?usp=sharing)
 
 ## Deliverables
 
