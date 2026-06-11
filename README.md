@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 ## Overview
 
@@ -119,6 +118,12 @@ The APK output will be available at:
 ```text
 build/app/outputs/flutter-apk/app-debug.apk
 ```
+
+## Download APK
+
+If you want to install the app directly, use this link:
+
+- [Download APK](https://drive.google.com/file/d/13dkBq4aKhlikN7pwZv4GXtVox1v9TZPG/view?usp=sharing)
 
 ## How to Use
 
@@ -252,6 +257,3 @@ or
 ## Author
 
 Adarsh  
-=======
-# contacts_clone
->>>>>>> 3dec46d19cf1fefbecdf856a61f1bce1bbf240d6
