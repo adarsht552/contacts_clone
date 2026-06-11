@@ -193,31 +193,26 @@ Note:
 
 ## Screenshots / Demo
 
-Add your screenshots or demo video links here before submission.
+### Screenshots
 
-Suggested items:
+![Home screen](assets/images/6149818699276291745_119.jpg)
 
-- Home screen with contacts list
-- Favorites tab
-- Add contact screen
-- Contact detail screen
-- Search flow
-- Themed app icon on Android launcher
+![Favorites screen](assets/images/6149818699276291746_119.jpg)
 
-Example section:
+![Add contact screen](assets/images/6149818699276291747_119.jpg)
 
-```text
-screenshots/
-  home.png
-  favorites.png
-  add_contact.png
-  detail.png
-```
+![Contact detail screen](assets/images/6149818699276291749_119.jpg)
 
-Or include a demo video link:
+### Demo Video
 
-```text
-Demo Video: <add-your-link-here>
+- [Watch demo video](assets/images/6149818698816299272.mp4)
+
+If you prefer an embedded video in a local preview, you can also use:
+
+```html
+<video controls width="100%">
+  <source src="assets/images/6149818698816299272.mp4" type="video/mp4">
+</video>
 ```
 
 ## Deliverables
