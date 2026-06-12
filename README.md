@@ -226,40 +226,6 @@ Note:
 
 - [Watch demo video](https://drive.google.com/file/d/1D9gilbZ_5DpnCjdhT7BNaypdIW737Qcl/view?usp=sharing)
 
-## Deliverables
-
-### 1. Source Code on GitHub
-
-- Push this Flutter project to a GitHub repository
-- Include clear commit history if possible
-- Make sure the repository contains the full source code and assets
-
-### 2. Documentation
-
-This README covers:
-
-- App features
-- Installation steps
-- Usage instructions
-- Tech stack
-- Implementation notes
-
-### 3. Screenshots or Video Demo
-
-Before final submission, add:
-
-- App screenshots in the repository
-or
-- A short video walkthrough showing all major features
-
-## Submission Checklist
-
-- Source code pushed to GitHub
-- README updated
-- Screenshots or demo video added
-- APK tested on Android device/emulator
-- All major assignment features demonstrated
-
 ## Author
 
 Adarsh  
